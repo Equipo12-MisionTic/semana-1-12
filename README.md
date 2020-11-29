@@ -18,3 +18,14 @@ El proyecto, deberá manejarse versionado en un repositorio remoto en github, en
   El elemento donde están los servicios debe de tener un `id=”team”`
 
 - Sección Footer o pie del sitio: el estudiante deberá crear el pie del sitio web en donde se incluye información de contacto, deberá estar dividido en dos partes, en una se tendrá la información del sitio web como el motivante del desarrollo y el enlace al repositorio de github, y en la otra los contacto de los miembros del equipo con sus nombres y roles. La sección debe de estar en un tag <footer></footer>
+
+Este proyecto fue realizado por :
+
+- Jeniffer Vanessa Aguado Gonzalez : 1110551055 
+- Diego Andres Garzon Giron : 1016110626   
+- Sergio Pineda Mejia : 1001314273
+- Alvaro Andres Peralta : 1016110626
+
+Para visualizar el proyecto abrir con un navegador el archivo index.html.
+
+Este proyecto fue creado como primer sprint del ciclo 3 de Mision TIC 2022
