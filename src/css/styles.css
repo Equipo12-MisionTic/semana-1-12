@@ -290,15 +290,19 @@ hr{
 background-color: tomato;
 display: flex;
 padding: 10px;
+height: 310px;
 }
 
 .texto1{
-    color: white;
+    color: black;
+    padding: 20px;
 
 }
 
 .texto2{
-    color: white;
+    color: black;
+    padding: 5px;
+
     
 
 }
